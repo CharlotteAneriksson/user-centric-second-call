@@ -9,4 +9,5 @@
 
 ##### images
 * Unsplash background
-    * [credit to artist](https://unsplash.com/photos/ukeUH3KbMWU)
+    * [landingpage](https://unsplash.com/photos/ukeUH3KbMWU)
+    * [planning](https://unsplash.com/photos/qWwpHwip31M)

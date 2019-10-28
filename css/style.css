@@ -28,6 +28,7 @@ body{
     border:1px solid #d4d4d4;
     border-radius: 5px;
     padding:10px;
+    min-height:252px;
 }
 .box .fa{
     font-size:1.7rem;
